@@ -53,6 +53,7 @@ sidebar | Barra lateral
 site | Site
 snippet | --> Extrato **ou** Fragmento (Ambos fazem sentido)
 starred | Favoritos/Favoritado
+strikethrough | Tachar/Tachado/Texto tachado
 supporter | Apoiador
 tag | etiqueta
 unlink | remover link
