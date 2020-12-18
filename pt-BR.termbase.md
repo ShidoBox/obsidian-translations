@@ -30,6 +30,7 @@ fixer | Conversor
 fold | Esconder
 frontmatter | Pré-texto
 graph | Gráfico
+Graph view | Visualização em gráfico
 heading | Seção
 highlight | Destacar/Destaque/Texto destacado
 homepage | raiz
