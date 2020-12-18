@@ -31,6 +31,7 @@ fold | Esconder
 frontmatter | Pré-texto
 graph | Gráfico
 heading | Seção
+highlight | Destacar/Destaque/Texto destacado
 homepage | raiz
 ID | Identificação
 indent | Indentar/indentação
